@@ -1,1 +1,4 @@
 *.0
+*.password
+*.passwords
+*.pickle
